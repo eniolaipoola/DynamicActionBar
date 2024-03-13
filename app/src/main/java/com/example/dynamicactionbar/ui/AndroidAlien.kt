@@ -50,6 +50,11 @@ fun AndroidAliens(modifier: Modifier) {
                 .size(100.dp)
                 .padding(8.dp)
         )
+        AndroidAlien(color = Color.White,
+            modifier = modifier
+                .size(100.dp)
+                .padding(8.dp)
+        )
     }
 
 }
